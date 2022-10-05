@@ -84,4 +84,4 @@ const person2 = personBuilder.setName('Moreno').setAge(22).getResult();
 
 ### Referências
 
-(Builder Teoria - Padrões de Projeto)[https://youtu.be/2VwLvwsIu-8?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H]
+[Builder Teoria - Padrões de Projeto](https://youtu.be/2VwLvwsIu-8?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
