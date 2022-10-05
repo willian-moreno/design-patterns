@@ -73,6 +73,7 @@ const person2 = personBuilder.setName('Moreno').setAge(22).getResult();
 - Ajuda na aplicação dos princípios SRP e OCP.
 
 > SRP: Single Responsibility Principle (Princípio da responsabilidade única)
+
 > OCP: Open-Closed Principle (Princípio aberto-fechado)
 
 ### Ruim
