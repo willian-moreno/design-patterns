@@ -14,7 +14,7 @@
 
 ## Implementação
 
-```jsx
+```javascript
 export class Singleton {
 	private static _instance: Singleton | null = null;
 
