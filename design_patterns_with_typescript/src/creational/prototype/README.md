@@ -98,5 +98,5 @@ console.log(person1 === Object.getPrototypeOf(person2));
 ### Referências
 
 [Prototype Teoria - Padrões de Projeto](https://youtu.be/Z-_smcjkdwM?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)<br>
-[Shallow Copy](https://developer.mozilla.org/en-US/docs/Glossary/Shallow_copy)
-[Deep Copy](https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy)
+[Shallow Copy](https://developer.mozilla.org/en-US/docs/Glossary/Shallow_copy)<br>
+[Deep Copy](https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy)<br>
