@@ -31,9 +31,7 @@
 
 ## Estrutura
 
-![structure_client](./assets/imgs/structure_client.png)
-![structure_prototype](./assets/imgs/structure_prototype.png)
-![structure_concrete_prototypes](./assets/imgs/structure_concrete_prototypes.png)
+![structure](./assets/imgs/structure.png)
 
 ## Exemplo
 
