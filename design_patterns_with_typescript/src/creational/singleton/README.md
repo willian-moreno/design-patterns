@@ -55,7 +55,7 @@ export class Singleton {
 - É mais difícil de testar.
 - Viola o princípio da responsabilidade única
 - Requer tratamento especial em casos de concorrência.
-- Erich Gamma (autor) descreveu que este seria o único padrão que ele removeria se fosse refatorar o livro ?Design Patterns: Elements of Reusable Object-Oriented Software?.
+- Erich Gamma (autor) descreveu que este seria o único padrão que ele removeria se fosse refatorar o livro "Design Patterns: Elements of Reusable Object-Oriented Software".
 
 ---
 
