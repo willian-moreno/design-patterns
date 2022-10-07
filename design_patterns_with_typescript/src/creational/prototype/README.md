@@ -7,7 +7,7 @@
 ## Sobre JavaScript e TypeScript
 
 - JavaScript e TypeScript são linguagens baseadas em protótipos. Vale ressaltar que TypeScript é JavaScript.
-- Objetos estão diretamente ligados a outros objetos.[
+- Objetos estão diretamente ligados a outros objetos.
 - Pode-se construir um objeto com base em outro, herdando os métodos e propriedades.
 - A "herança" é obtida via delegação (um objeto delega algo para seu protótipo).
 - Uma das maneiras mais simples para manipular o protótipo de um objeto é usando `Object.create(prototypeObject)`.
