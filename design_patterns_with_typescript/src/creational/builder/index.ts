@@ -1,5 +1,5 @@
-import { VeganDishBuilder } from './classes/VeganDishBuilder';
-import { MainDishBuilder } from './classes/MainDishBuilder';
+import { VeganDishBuilder } from './classes/vegan-dish-builder';
+import { MainDishBuilder } from './classes/main-dish-builder';
 const mainDishBuilder = new MainDishBuilder();
 const veganDishBuilder = new VeganDishBuilder();
 

@@ -1,6 +1,6 @@
-import { Beans, Beverage, Dessert, Meat, Rice } from './Meals';
-import { ComposedMeal } from './ComposedMeal';
-import { MealBuilderProtocol } from './../interfaces/MealBuilderProtocol';
+import { Beans, Beverage, Dessert, Meat, Rice } from './meals';
+import { ComposedMeal } from './composed-meal';
+import { MealBuilderProtocol } from '../interfaces/meal-builder-protocol';
 
 export class MainDishBuilder implements MealBuilderProtocol {
   private _meal: ComposedMeal = new ComposedMeal();

@@ -1,4 +1,4 @@
-import User from '../interfaces/User';
+import User from '../interfaces/user';
 
 export const MyDatabaseFunction = (function () {
   const users: User[] = []; // Dessa forma a constante fica privada.
