@@ -19,7 +19,7 @@ Bridge é um padrão de projeto estrutural que tem a intenção de desacoplar um
 
 ### Problema
 
-A imagem abaixo é um problema que ocorre na implementação de objetos que utilizam herança, ou seja, a aplicação vai ficando complexa a medida que novos contratos (interfaces) surgem a partir de outros.
+A imagem abaixo é um problema que ocorre na implementação de objetos que utilizam herança, ou seja, a aplicação vai ficando complexa a medida que novas abstrações surgem a partir de outras.
 
 ![problem](./assets/imgs/problem.png)
 
