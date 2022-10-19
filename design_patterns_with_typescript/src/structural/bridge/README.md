@@ -62,7 +62,7 @@ Uma solução seria a composição de objetos.
 
 - Aumenta a complexidade da aplicação quando implementado em locais incorretos
 
----
+----
 
 ### Referências
 
